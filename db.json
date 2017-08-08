@@ -1,10 +1,64 @@
 {
   "Test": { "Person": {"FirstName":"Alejandro","LastName":"Perez"}, "PropertiesNames": ["Villa Magna Residencial","Best Day"],"Token":"qwerty" }
   ,
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
+  "GetListVisit": 
+    {
+	"Visits": [
+		{
+			"IdVisit": "123",
+			"PropertyName": "villa magna departameto 1",
+			"Person": {
+				"FistName": "Alejandro",
+				"LastName": "Perez"
+			},
+			"Reason": {
+				"WorkIn": true,
+				"Job": "niñera",
+				"Business": "Go Nanny"
+			},
+			"Time": {
+				"InHouse": true,
+				"ScheduledTime": {
+					"AnyTime": true,
+					"In": "2017/10/12 08:00:00",
+					"Out": "2017/10/12 08:00:00"
+				},
+				"RealTime": {
+					"AnyTime": false,
+					"In": "2017/10/12 08:00:00",
+					"Out": "2017/10/12 08:00:00"
+				}
+			}
+		},
+		{
+			"IdVisit": "123",
+			"PropertyName": "Best Day torre A piso 1 tecnologia",
+			"Person": {
+				"FistName": "Alejandro",
+				"LastName": "Perez"
+			},
+			"Reason": {
+				"WorkIn": true,
+				"Job": "niñera",
+				"Business": "Go Nanny"
+			},
+			"Time": {
+				"InHouse": true,
+				"ScheduledTime": {
+					"AnyTime": true,
+					"In": "2017/10/12 08:00:00",
+					"Out": "2017/10/12 08:00:00"
+				},
+				"RealTime": {
+					"AnyTime": false,
+					"In": "2017/10/12 08:00:00",
+					"Out": "2017/10/12 08:00:00"
+				}
+			}
+		}
+	]
+}
+  ,
   "Login": {
     "Person": {"FirstName":"Alejandro","LastName":"Perez"}, "PropertiesNames": ["Villa Magna Residencial","Best Day"],"Token":"qwerty" 
   }
