@@ -1,12 +1,11 @@
 {
-  "Login": 
-    { "Person": {"FirstName":"Alejandro","LastName":"Perez"}, "PropertiesNames": ["Villa Magna Residencial","Best Day"],"Token":"qwerty" }
+  "Test": { "Person": {"FirstName":"Alejandro","LastName":"Perez"}, "PropertiesNames": ["Villa Magna Residencial","Best Day"],"Token":"qwerty" }
   ,
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
+  "Login": {
+    "Person": {"FirstName":"Alejandro","LastName":"Perez"}, "PropertiesNames": ["Villa Magna Residencial","Best Day"],"Token":"qwerty" 
   }
 }
