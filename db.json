@@ -60,6 +60,6 @@
 }
   ,
   "Login": {
-    "Person": {"FirstName":"Alejandro","LastName":"Perez"}, "PropertiesNames": ["Villa Magna Residencial","Best Day"],"Token":"qwerty" 
+    "Person": {"FirstName":"Alejandro","LastName":"Perez"},"Token":"qwerty" 
   }
 }
