@@ -1,101 +1,107 @@
 {
   "Test": { "Person": {"FirstName":"Alejandro","LastName":"Perez"}, "PropertiesNames": ["Villa Magna Residencial","Best Day"],"Token":"qwerty" }
   ,
-  "GetListVisit": 
+  "GetListVisit": {
+  "Visits": [
     {
-  "Visits": [
-    {
-      "PropertyName": "villa magna departameto 1",
-      "UnitId": "408B69AE-60D2-4EA1-ACE2-1E546307174F",
-     "IdVisit": "123",
-      "Person": {
-        "FirstName": "Sandra",
-        "LastName": "bullloc",
-        "Images": ["https://tinyurl.com/ya3q4qz8","https://tinyurl.com/ydylftmq"]
-      },
-      "Repeat": {
-        "RepeatEvery": "week",
-        "RepeatEach": "3",
-        "Days": [
-          "D",
-          "L",
-          "M",
-          "X",
-          "J",
-          "V",
-          "S"
-        ],
-        "DateStart": "",
-        "RepeatNumber": "2",
-        "Until": "2017/10/12",
-        "Summary": "Toda la semana"
-      },
-      "Reason": {
-        "WorkIn": true,
-        "Job": "niñera",
-        "Business": "Go Nanny"  
-      },
-      "Time": {
-        "InHouse": true,
-        "ScheduledTime": {
-          "AnyTime": true,
-          "In": "2017/10/12 08:00:00",
-          "Out": "2017/10/12 08:00:00"
-        },
-        "RealTime": {
-          "AnyTime": false,
-          "In": "2017/10/12 08:00:00",
-          "Out": "2017/10/12 08:00:00"
-        }
-      }
-    },{
-      "PropertyName": "villa magna departameto 1",
-      "UnitId": "408B69AE-60D2-4EA1-ACE2-1E546307175F”,
-     "IdVisit": "124”,
-      "Person": {
-        "FirstName": "Sandra",
-        "LastName": "Bulloc",
-        "Images": ["https://tinyurl.com/ya3q4qz8","https://tinyurl.com/ydylftmq"]
-      },
-      "Repeat": {
-        "RepeatEvery": "week",
-        "RepeatEach": "3",
-        "Days": [
-          "D",
-          "L",
-          "M",
-          "X",
-          "J",
-          "V",
-          "S"
-        ],
-        "DateStart": "",
-        "RepeatNumber": "2",
-        "Until": "2017/10/12",
-        "Summary": "Toda la semana"
-      },
-      "Reason": {
-        "WorkIn": true,
-        "Job": "niñera",
-        "Business": "Go Nanny"  
-      },
-      "Time": {
-        "InHouse": true,
-        "ScheduledTime": {
-          "AnyTime": true,
-          "In": "2017/10/12 08:00:00",
-          "Out": "2017/10/12 08:00:00"
-        },
-        "RealTime": {
-          "AnyTime": false,
-          "In": "2017/10/12 08:00:00",
-          "Out": "2017/10/12 08:00:00"
-        }
-      }
-    }
-
-  ]
-} ,
+      "PropertyName": "villa magna departameto 1",
+      "UnitId": "408B69AE-60D2-4EA1-ACE2-1E546307174F",
+      "IdVisit": "123",
+      "Person": {
+        "FirstName": "Sandra",
+        "LastName": "bullloc",
+        "Images": [
+          "https://tinyurl.com/ya3q4qz8",
+          "https://tinyurl.com/ydylftmq"
+        ]
+      },
+      "Repeat": {
+        "RepeatEvery": "week",
+        "RepeatEach": "3",
+        "Days": [
+          "D",
+          "L",
+          "M",
+          "X",
+          "J",
+          "V",
+          "S"
+        ],
+        "DateStart": "",
+        "RepeatNumber": "2",
+        "Until": "2017/10/12",
+        "Summary": "Toda la semana"
+      },
+      "Reason": {
+        "WorkIn": true,
+        "Job": "niñera",
+        "Business": "Go Nanny"
+      },
+      "Time": {
+        "InHouse": true,
+        "ScheduledTime": {
+          "AnyTime": true,
+          "In": "2017/10/12 08:00:00",
+          "Out": "2017/10/12 08:00:00"
+        },
+        "RealTime": {
+          "AnyTime": false,
+          "In": "2017/10/12 08:00:00",
+          "Out": "2017/10/12 08:00:00"
+        }
+      }
+    },
+    {
+      "PropertyName": "villa magna departameto 1",
+      "UnitId": "408B69AE-60D2-4EA1-ACE2-1E546307175F",
+      "IdVisit": "124",
+      "Person": {
+        "FirstName": "Sandra",
+        "LastName": "Bulloc",
+        "Images": [
+          "https://tinyurl.com/ya3q4qz8",
+          "https://tinyurl.com/ydylftmq"
+        ]
+      },
+      "Repeat": {
+        "RepeatEvery": "week",
+        "RepeatEach": "3",
+        "Days": [
+          "D",
+          "L",
+          "M",
+          "X",
+          "J",
+          "V",
+          "S"
+        ],
+        "DateStart": "",
+        "RepeatNumber": "2",
+        "Until": "2017/10/12",
+        "Summary": "Toda la semana"
+      },
+      "Reason": {
+        "WorkIn": true,
+        "Job": "niñera",
+        "Business": "Go Nanny"
+      },
+      "Time": {
+        "InHouse": true,
+        "ScheduledTime": {
+          "AnyTime": true,
+          "In": "2017/10/12 08:00:00",
+          "Out": "2017/10/12 08:00:00"
+        },
+        "RealTime": {
+          "AnyTime": false,
+          "In": "2017/10/12 08:00:00",
+          "Out": "2017/10/12 08:00:00"
+        }
+      }
+    }
+  ]
+}
+   ,
   "Login": {
     "Person": {"FirstName":"Alejandro","LastName":"Perez", "Images": ["https://tinyurl.com/ya3q4qz8","https://tinyurl.com/ydylftmq"]
 },"Token":"qwerty" 
