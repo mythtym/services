@@ -1,6 +1,6 @@
 {
   "Test": { "Person": {"FirstName":"Alejandro","LastName":"Perez"}, "PropertiesNames": ["Villa Magna Residencial","Best Day"],"Token":"qwerty" }
-  ,
+  ,"PanicButton":{"Success":"Se enviará ayuda"},
   "GetListVisit": {
   "Visits": [
     {
