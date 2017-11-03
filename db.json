@@ -1,4 +1,4 @@
-{
+{"Promociones":[{"Titulo":"Oferta Sobresaliente","UrlImg":"http://www.pliniocorreadeoliveira.info/pato.jpg","UrlOferta":"http://google.com"},{"Titulo":"Oferta Sobresaliente","UrlImg":"http://www.pliniocorreadeoliveira.info/pato.jpg","UrlOferta":"http://google.com"},{"Titulo":"Oferta Sobresaliente","UrlImg":"http://www.pliniocorreadeoliveira.info/pato.jpg","UrlOferta":"http://google.com"}],
   "Test": { "Person": {"FirstName":"Alejandro","LastName":"Perez"}, "PropertiesNames": ["Villa Magna Residencial","Best Day"],"Token":"qwerty" }
   ,"PanicButton":{"Success":"Se enviará ayuda"},
   "GetListVisit": {
